@@ -30,6 +30,11 @@ I have no font creation skills; I’m just a software developer. This font famil
 {% include_relative generate.py %}
 ```
 
+## Check out these fonts as well
+- The original [Comic Shanns](https://github.com/shannpersand/comic-shanns) by [Shannon Miwa](https://github.com/shannpersand) has V2 released with support for accented characters and other symbols, such as math symbols.
+- Check out [Serious Shanns](https://github.com/kaBeech/serious-shanns) by [Kyle Beechly](https://github.com/kaBeech), which has more modifications to further enhance the legibility, lighter weight, and Nerd Font version.
+- Check out [Comic Shanns Mono](https://github.com/jesusmgg/comic-shanns-mono) by [Jesus Gonzalez](https://github.com/jesusmgg), which is based on Comic Shanns v2 but with metrics adjusted and with more additional characters.
+
 ## CDN
 You can use this font in your web pages by including the stylesheet. CDN is provided by [jsDelivr](https://www.jsdelivr.com/package/npm/comic-mono).
 ```html
